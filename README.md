@@ -12,3 +12,7 @@ I am highly proficient in SQL, MS_Excel, Power BI, SPSS and python.
 💞️ I’m looking to collaborate on data anlysis projects.
 
 📫 I can be reached on my email address, adedayo.akingbade.sbc@gmail.com or via call on (+44) 07909081754.
+
+# Projects
+Here are some of my projects
+- PetCare Marketing Decision: PetCare is an organisation that markets and supplies pet needs related products. This project helps to decide how best to focus their marketing and advertising strength so as to maximize sales. https://github.com/Adedayo1900/PetCare.git

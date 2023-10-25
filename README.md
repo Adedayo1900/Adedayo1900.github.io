@@ -1,3 +1,4 @@
+![Untitled design](https://github.com/Adedayo1900/Adedayo1900.github.io/assets/130705411/b48e3966-e053-4db1-ad92-c07c3c5febf5)
 # Adedayo1900.github.io
 Welcome to my Data Analytic world!!
   
@@ -7,7 +8,7 @@ I am highly proficient in SQL, MS_Excel, Power BI, SPSS and python.
 
 👀 I’m interested in Data analysis and Business Analysis.
 
-🌱 I transitioned into Data analysis, January 2023.
+🌱 I am a public health specialist who transitioned into Data analysis.
 
 💞️ I’m looking to collaborate on data anlysis projects.
 
